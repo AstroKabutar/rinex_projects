@@ -1,2 +1,2 @@
 # rinex_projects
-Rinex projects on web developement
+[Rinex](https://rinex-s-school.thinkific.com) projects on web developement
